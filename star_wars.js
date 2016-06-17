@@ -1,6 +1,6 @@
 var request = require('request');
 var prompt = require('prompt');
-
+var open = require('open');
 
 //   * CLI prints welcome message
 
