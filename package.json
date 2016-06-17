@@ -4,10 +4,15 @@
   "description": "",
   "main": "star_wars.js",
   "dependencies": {
-    "request": "^2.72.0",
-    "prompt": "^1.0.0"
-  },
+    "open": "0.0.5",
+    "prompt": "^1.0.0",
+    "request": "^2.72.0"
+  }
   "devDependencies": {},
+  "name": "api_lab_day",
+  "version": "1.0.0",
+  "description": "* CLI prints welcome message   * CLI prompts the user for input   * CLI makes a simple call to *X* API using the user input   * CLI outputs results",
+  "main": "star_wars.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -21,4 +26,4 @@
     "url": "https://github.com/christian-mansour/api_lab_day/issues"
   },
   "homepage": "https://github.com/christian-mansour/api_lab_day#readme"
-}
+  },
