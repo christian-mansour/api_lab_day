@@ -1,14 +1,4 @@
 {
-  "name": "api",
-  "version": "1.0.0",
-  "description": "",
-  "main": "star_wars.js",
-  "dependencies": {
-    "open": "0.0.5",
-    "prompt": "^1.0.0",
-    "request": "^2.72.0"
-  }
-  "devDependencies": {},
   "name": "api_lab_day",
   "version": "1.0.0",
   "description": "* CLI prints welcome message   * CLI prompts the user for input   * CLI makes a simple call to *X* API using the user input   * CLI outputs results",
@@ -18,12 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/christian-mansour/api_lab_day.git"
+    "url": "git+https://github.com/cstandefer88/api_lab_day.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/christian-mansour/api_lab_day/issues"
+    "url": "https://github.com/cstandefer88/api_lab_day/issues"
   },
-  "homepage": "https://github.com/christian-mansour/api_lab_day#readme"
-  },
+  "homepage": "https://github.com/cstandefer88/api_lab_day#readme",
+  "dependencies": {
+    "open": "0.0.5",
+    "prompt": "^1.0.0",
+    "request": "^2.72.0"
+  }
+}
